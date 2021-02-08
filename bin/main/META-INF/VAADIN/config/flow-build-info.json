@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "/home/bora/Development/github/swbch",
+  "generatedFolder": "/home/bora/Development/github/swbch/target/frontend",
+  "frontendFolder": "/home/bora/Development/github/swbch/frontend",
+  "pnpm.enable": true,
+  "require.home.node": false
+}
